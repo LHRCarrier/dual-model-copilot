@@ -1,0 +1,4 @@
+interface:
+  display_name: "双模型协作"
+  short_description: "外部模型出方案、就在本会话施工、主代理整合验收"
+  default_prompt: "使用 $dual-model-copilot 让外部模型出方案，你负责施工和验收。"
