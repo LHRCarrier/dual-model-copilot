@@ -58,4 +58,4 @@
 
 ## 许可
 
-未声明许可。要开源给别人用的话，补一个 `LICENSE` 更合适。
+MIT，见 [LICENSE](LICENSE)。
